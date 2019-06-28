@@ -11,7 +11,7 @@ setuptools.setup(
     description="(De)Serialization of JKL objects",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="hhttps://github.com/daanknoope/jkl-serialization",
+    url="https://github.com/daanknoope/jkl-serialization",
     python_requires='>3.6',
     packages=setuptools.find_packages(),
     classifiers=[
